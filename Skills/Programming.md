@@ -16,19 +16,19 @@
   - Module !
   - Library *
   - Package +
-  - Component h
+  - Component ~
   - Framework *
   - Platform *
   - Source code *
-  - Object code h
+  - Object code ~
   - Machine code !
-  - Microcode h
+  - Microcode ~
   - Software engineering *
-  - Decomposition h
+  - Decomposition ~
   - Control flow
-  - Data flow h
+  - Data flow ~
   - Code reuse *
-  - Defensive programming h
+  - Defensive programming ~
   - Don't repeat yourself (DRY) !
   - KISS principle !
 - Syntax and concepts
