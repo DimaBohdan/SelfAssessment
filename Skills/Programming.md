@@ -1,45 +1,45 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model !
-  - Modeling !
-  - Subject domain *
-  - Algorithm *
-  - Syntax !
-  - Semantics + 
-  - Abstraction !
-  - Paradigm +
-  - Programm *
-  - Programming paradigm +
-  - Programming language *
-  - Contract
-  - Module !
-  - Library *
-  - Package +
-  - Component ~
-  - Framework *
-  - Platform *
-  - Source code *
-  - Object code ~
-  - Machine code !
-  - Microcode ~
-  - Software engineering *
-  - Decomposition ~
+  - Model 🙋 explained
+  - Modeling 🙋 explained
+  - Subject domain 🎓 known
+  - Algorithm 🖐️ used
+  - Syntax 🙋 explained
+  - Semantics 👂 heard
+  - Abstraction 🙋 explained
+  - Paradigm 🖐️ used
+  - Programm 🖐️ used
+  - Programming paradigm 🔬 researched
+  - Programming language 🎓 known
+  - Contract 🙋 explained
+  - Module 🙋 explained
+  - Library 🎓 known
+  - Package 🎓 known
+  - Component 👂 heard
+  - Framework 🔬 researched
+  - Platform 🎓 known
+  - Source code 🎓 known
+  - Object code 👂 heard
+  - Machine code 🙋 explained
+  - Microcode 👂 heard
+  - Software engineering 🎓 known
+  - Decomposition 👂 heard
   - Control flow
-  - Data flow ~
-  - Code reuse *
-  - Defensive programming ~
-  - Don't repeat yourself (DRY) !
-  - KISS principle !
+  - Data flow 👂 heard
+  - Code reuse 🎓 known
+  - Defensive programming 👂 heard
+  - Don't repeat yourself (DRY) 🙋 explained
+  - KISS principle 🙋 explained
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
-  - Literal
-  - Expression
-  - Heap
+  - Value 🔬 researched
+  - Identifier 🎓 known
+  - Variable 🎓 known
+  - Constant 🙋 explained
+  - Scalar 🎓 known
+  - Literal 🎓 known
+  - Expression 🎓 known
+  - Heap 👂 heard
   - Function
   - Procedure
   - Method
